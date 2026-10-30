@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsunenobu-haha",
  "yomi": "つねのぶきょうのははのしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "源経信母",
+  "desc": "源経信の母の小さな家集。四季の歌と人々との贈答を収め、末尾に子経信を学問で育てた逸話を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -229,6 +234,6 @@
   "poems": 15,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
